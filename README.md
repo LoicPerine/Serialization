@@ -1,0 +1,1 @@
+# démo pour la sérialisation/déserialisation
